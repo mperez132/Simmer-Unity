@@ -3,32 +3,35 @@ README
 Playable Link:
 https://theunaveragejoe.itch.io/simmer?secret=0U66xcgvSQEm1kmB6ETE7MfLpE 
 
-Game Summary
+#Game Summary
 Simmer is a 2D cooking-focused cooking simulator that centers around a single playable character honing their cooking skills and learning new recipes as they make their way to becoming a well-experienced chef. The player will spend what money they can for supplies, equipment and learning about new cuisines. The player will have to manage their time, gather ingredients, and explore new recipes to make it on their culinary journey.
 
-Controls
+#Controls
 Movement
 W - up 	A - left 	S - down	D - right
+
 Interaction
 Right-Click while close- Interact with appliance, doors, and NPCs
 Left-Click - Advance dialogue text
+
 Hotbar Inventory
 Left-Click - Drag and drop items, select item
 1, 2, 3, 4 - Select hotbar item
+
 UI Windows
 P - Open pause menu
 
-Known Issues
+#Known Issues
 Music volume can be loud. Use the pause menu to adjust volume.
 Some UI popup suddenly like Appliance interaction UI and dialogue text
 
-Player Guide
+#Player Guide
 Talk to all shopkeepers to receive recipe quests
 Purchasing and handling ingredients gives you knowledge towards recipes
 RMB on the couch to sleep and go to work to receive money for the next day
 Finished recipes can sell for more than usual ingredients
 
-Recipes [Spoilers!]
+#Recipes [Spoilers!]
 Cream Cake:
 Mixer: Sugar, milk, Flower, Butter, Egg, Baking Powder
 Oven: Cake Batter

@@ -11,7 +11,9 @@ Movement
 W - up 	A - left 	S - down	D - right
 
 Interaction
+
 Right-Click while close- Interact with appliance, doors, and NPCs
+
 Left-Click - Advance dialogue text
 
 Hotbar Inventory
